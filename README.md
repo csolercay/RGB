@@ -23,3 +23,13 @@
 1. Move the **R**, **G**, and **B** sliders.
 2. The color updates instantly.
 3. Click **Copy** to copy the RGB value.
+
+---
+
+## 🛠️ Built With
+
+HTML – Structure
+
+CSS – Styling
+
+JavaScript – Functionality
