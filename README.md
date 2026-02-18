@@ -2,15 +2,8 @@
 
 <p align="center">
   A simple and interactive RGB color generator using sliders.<br>
-  Create any color and copy it instantly.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-Structure-orange">
-  <img src="https://img.shields.io/badge/CSS-Styling-blue">
-  <img src="https://img.shields.io/badge/JavaScript-Logic-yellow">
-  <img src="https://img.shields.io/badge/License-MIT-green">
-</p>
 
 ---
 
